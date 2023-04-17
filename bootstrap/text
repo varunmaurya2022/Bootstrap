@@ -1,0 +1,19 @@
+CDN-->Content Delivery Network
+RESPONSIVE WEB DESIGN ==>GRID SYSTEM==>
+1.Breakpoint
+2.Container
+3.Row
+4.column 
+
+CONTAINER :->Wrapper that contain the website website width depends on wrapper width. 
+
+
+conrainer-fluid==>Take 100% width for every device    
+
+simple container==>Take margin but mobile device does not take margin and take 100%width.
+
+Breakpoint-container==>Mixture of simple conatiner and conatiner-fluid.
+
+BOOTSTRAP FLOW==>
+container->row->column->content(text,images)
+
